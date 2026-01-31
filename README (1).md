@@ -97,6 +97,6 @@ It should **NOT** be used for real-world medical diagnosis.
 ---
 
 ## 👨‍💻 Author
-**Engineer Waqas Gurmani**
+** Waqas Gurmani**
 
 📬 Feel free to connect and contribute!
